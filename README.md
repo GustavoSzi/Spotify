@@ -1,5 +1,6 @@
 <h1 align="center">Spotify</h1>
 <h2 align="center">Descrição</h2>
+<h2 align="center">Acesse: https://gustavoszi.github.io/Spotify/</h2>
 <p align="center">Projeto criado como atividade de um curso, com o objetivo de copiar o site inicial do spotify. Foram utilizados:</p>
 <ul>
   <li>HTML5;</li>
