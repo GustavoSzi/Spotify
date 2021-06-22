@@ -1,0 +1,127 @@
+body{
+    background: url('../imagens/capa.png') fixed, url('../imagens/ruido.png') fixed, linear-gradient(50deg,#ff4169,#7c26f8) ;
+    font-family: Helvetica;
+    overflow-x: hidden;
+}
+
+nav {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+#navb a{
+    color: #FFF;
+    margin-left: 10px;
+}
+
+#navb a:hover{
+    color: skyblue;
+}
+
+nav a img{
+    width: 142px;
+}
+
+.btn-roxo {
+    background-color: #7c25f8;
+}
+
+.btn-custom{
+    color: white;
+    margin-right: 10px;
+    border-radius: 500px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+    margin-bottom: 15px;
+}
+
+.btn-roxo:hover{
+    color: white;
+    background-color: #6207e3;
+}
+
+.btn-branco {
+    border: 2px solid white;
+}
+
+.btn-branco:hover{
+    background-color: white;
+    color: #000;
+}
+
+#home {
+    text-align: center;
+    margin: 100px 0px;
+}
+
+#home h1{
+    font-weight: 900;
+    margin-bottom: 50px;
+    font-size: 6rem;
+    color: white;
+    letter-spacing: -0.05em;
+}
+
+#features{
+    background-color: white;
+    padding: 30px;
+}
+
+#features h2{
+    color: #7C25F8;
+    font-size: 2.9em;
+    font-weight: 700; 
+}
+
+#features h3{
+    color: #7C25F8;
+    margin-top: 15px;
+    font-size: 1.9em;
+    font-weight: 700;
+}
+
+#easy{
+    margin: 20px 0px;
+    color: #FFF;
+}
+
+#easy h1{
+    font-weight: 700;
+}
+
+#easy h2{
+    color: #9BF0E1;
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+#iphones{
+    transform: rotate(30deg);
+    padding: 20px 0px 20px 70px;
+}
+
+footer{
+    background-color: #000;
+    position: relative;
+    padding: 30px 0px;
+    font-size: 0.8em;
+}
+
+footer h4{
+    font-size: 1.1em;
+    color: #919496;
+}
+
+footer li{
+    margin-bottom: 5px;
+}
+
+
+footer li a, footer li a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+footer p a{
+    margin-left: 10px;
+}
