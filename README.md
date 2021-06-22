@@ -11,5 +11,6 @@
   <li>Estilização com Bootstrap 4;</li>
   <li>Personalização de elementos do Bootstrap;</li>
   <li>Bootstrap grid layout</li>
+  <li>Carrousel</li>
   <li>Responsividade</li>
 </ul>
